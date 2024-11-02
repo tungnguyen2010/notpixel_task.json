@@ -1,15 +1,17 @@
-tasks = [
-    ("jettonTask", {}),
-    ("paint20pixels", {}),
-    ("joinSquad", {}),
-    ("makePixelAvatar", {}),
-    ("leagueBonusSilver", {}),
-    ("x?name=notpixel", {"name": "notpixel"}),
-    ("x?name=notcoin", {"name": "notcoin"}),
-    ("channel?name=notcoin", {"name": "notcoin"}),
-    ("leagueBonusGold", {}),
-    ("boinkTask", {}),
-    ("leagueBonusPlatinum", {}),
-    ("pixelInNickname", {}),
-    ("pumpkin", {})
-]
+{
+    "tasks": [
+        ["jettonTask", {}],
+        ["paint20pixels", {}],
+        ["joinSquad", {}],
+        ["makePixelAvatar", {}],
+        ["leagueBonusSilver", {}],
+        ["x?name=notpixel", {"name": "notpixel"}],
+        ["x?name=notcoin", {"name": "notcoin"}],
+        ["channel?name=notcoin", {"name": "notcoin"}],
+        ["leagueBonusGold", {}],
+        ["boinkTask", {}],
+        ["leagueBonusPlatinum", {}],
+        ["pixelInNickname", {}],
+        ["pumpkin", {}]
+    ]
+}
