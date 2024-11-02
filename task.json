@@ -1,13 +1,15 @@
-{
-    "tasks": [
-        {"task_name": "jettonTask", "payload": {}},
-        {"task_name": "paint20pixels", "payload": {}},
-        {"task_name": "joinSquad", "payload": {}},
-        {"task_name": "makePixelAvatar", "payload": {}},
-        {"task_name": "leagueBonusSilver", "payload": {}},
-        {"task_name": "x?name=notpixel", "payload": {"name": "notpixel"}},
-        {"task_name": "x?name=notcoin", "payload": {"name": "notcoin"}},
-        {"task_name": "channel?name=notcoin", "payload": {"name": "notcoin"}},
-        {"task_name": "leagueBonusGold", "payload": {}}
-    ]
-}
+tasks = [
+    ("jettonTask", {}),
+    ("paint20pixels", {}),
+    ("joinSquad", {}),
+    ("makePixelAvatar", {}),
+    ("leagueBonusSilver", {}),
+    ("x?name=notpixel", {"name": "notpixel"}),
+    ("x?name=notcoin", {"name": "notcoin"}),
+    ("channel?name=notcoin", {"name": "notcoin"}),
+    ("leagueBonusGold", {}),
+    ("boinkTask", {}),
+    ("leagueBonusPlatinum", {}),
+    ("pixelInNickname", {}),
+    ("pumpkin", {})
+]
