@@ -1,14 +1,15 @@
 [
-  {"jettonTask",{}},
-{"paint20pixels",{}},
-{"joinSquad",{}},
-{"makePixelAvatar",{}},
-{"leagueBonusSilver",{}},
-{"x?name=notpixel",{}},
-{"x?name=notcoin",{}},
-{"channel?name=notcoin",{}},
-{"leagueBonusGold",{}},
-{"leagueBonusPlatinum",{}},
-{"pixelInNickname",{}},
-{"pumpkin",{}}
+    ["jettonTask", {}],
+    ["paint20pixels", {}],
+    ["joinSquad", {}],
+    ["makePixelAvatar", {}],
+    ["leagueBonusSilver", {}],
+    ["x?name=notpixel", {}],
+    ["x?name=notcoin", {}],
+    ["channel?name=notcoin", {}],
+    ["leagueBonusGold", {}],
+    ["leagueBonusPlatinum", {}],
+    ["pixelInNickname", {}],
+    ["pumpkin", {}]
 ]
+
