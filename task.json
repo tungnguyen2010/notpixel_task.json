@@ -1,5 +1,6 @@
 [
     ["jettonTask", {}],
+    ["nikolai", {}],
     ["paint20pixels", {}],
     ["joinSquad", {}],
     ["makePixelAvatar", {}],
@@ -12,4 +13,3 @@
     ["pixelInNickname", {}],
     ["pumpkin", {}]
 ]
-
