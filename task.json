@@ -17,5 +17,7 @@
     ["hauntedSpace", {}],
     ["flappyBird", {}],
     ["frogApp", {}],
+    ["solitaireGame", {}],
+    ["tonDurakGame", {}],
     ["tonPoker", {}]
 ]
