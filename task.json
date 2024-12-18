@@ -19,5 +19,9 @@
     ["frogApp", {}],
     ["solitaireGame", {}],
     ["tonDurakGame", {}],
-    ["tonPoker", {}]
+    ["tonPoker", {}],
+    ["starHash", {}],
+    ["duckChain", {}],
+    ["trmnl", {}],
+    ["earnCoin", {}]
 ]
